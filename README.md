@@ -1,4 +1,3 @@
-![snake gif](https://github.com/Berezanskyj/Berezanskyj/blob/output/github-contribution-grid-snake.svg)
 
 
 # Rafael Cardoso Berezanskyj
@@ -12,6 +11,10 @@ Olá! Sou Rafael Cardoso Berezanskyj, um estudante apaixonado por desenvolviment
 - ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 - ![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
 - ![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+
+
+![snake gif](https://github.com/berezanskyj/berezanskyj/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Projetos Destacados
 Em breve...
