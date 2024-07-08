@@ -21,7 +21,7 @@ Em breve...
 
 ## Contato
 - LinkedIn: Rafael Cardoso Berezanskyj
-- E-mail: seu.email@example.com
+- E-mail: berezanskyj16@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios e projetos! Estou sempre em busca de aprender e colaborar com a comunidade de desenvolvimento. 😊
 
