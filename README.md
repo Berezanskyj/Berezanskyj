@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![snake gif](https://github.com/Berezanskyj/Berezanskyj/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **Berezanskyj/Berezanskyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
