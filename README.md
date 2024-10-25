@@ -1,19 +1,19 @@
-## Hi there 👋
-
-
 ![snake gif](https://github.com/Berezanskyj/Berezanskyj/blob/output/github-contribution-grid-snake.gif)
 
-<!--
-**Berezanskyj/Berezanskyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rafael Cardoso Berezanskyj
 
-Here are some ideas to get you started:
+## Sobre mim
+Olá! Sou Rafael Cardoso Berezanskyj, um estudante apaixonado por desenvolvimento de sistemas, com um forte foco no backend. Atualmente, estou explorando as nuances e desafios das linguagens de programação HTML, CSS, Python, JavaScript e Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projetos Destacados
+Em breve...
+
+## Contato
+- LinkedIn: Rafael Cardoso Berezanskyj
+- E-mail: berezanskyj16@gmail.com
+
+Sinta-se à vontade para explorar meus repositórios e projetos! Estou sempre em busca de aprender e colaborar com a comunidade de desenvolvimento. 😊
+
+
+
